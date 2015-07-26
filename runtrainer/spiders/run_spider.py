@@ -17,7 +17,7 @@ def pairwise(iterable):
     return izip(a, a)
 
 class LoginSpider(scrapy.Spider):
-    name = 'login'
+    name = 'runtrainer'
     allowed_domains = ['runtrainer.com']
     start_urls = ['http://runtrainer.com/login.php']
 
