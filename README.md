@@ -20,7 +20,9 @@ $ scrapy crawl runtrainer -a user=<username> -a password=<your_password>
 ```
 
 It writes all your activities to separate gpx files. Those files can be uploaded to:
+
 [Strava](http://strava.com)
+
 [Runtastic](http://www.runtastic.com)
 
 Probably also other, however I only tested those two
