@@ -6,7 +6,9 @@ Exports all your runs from runtrainer.com to separate gpx files.
 For this to work you need the following packages:
 
 [Scrappy](http://scrapy.org/)
+
 [gpxpy -- GPX file parser](https://github.com/tkrajina/gpxpy)
+
 [SRTM.py](https://github.com/tkrajina/srtm.py) (however not used at the moment)
 
 ## How to run
